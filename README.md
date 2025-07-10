@@ -67,6 +67,9 @@ Evaluation_modele_deep_learning/
    ```bash
    pip install -r requirements.txt
    ```
+   
+5. **Télécharger le dataset LFW People** :
+   [lien du Dataset](https://www.kaggle.com/datasets/atulanandjha/lfwpeople)
 
 **Note** : L'installation peut prendre plusieurs minutes car certains modèles (comme dlib) nécessitent une compilation.
 
