@@ -1,0 +1,72 @@
+# Environnement virtuel Python
+venv/
+env/
+ENV/
+.venv/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Modèles DeepFace téléchargés
+.deepface/
+*.h5
+*.pkl
+*.pth
+*.onnx
+*.pb
+
+# Dataset LFW (optionnel - peut être volumineux)
+lfw/
+lfw_restricted/
+
+# Logs et fichiers temporaires
+*.log
+*.tmp
+*.temp
+.DS_Store
+Thumbs.db
+
+# IDE et éditeurs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Fichiers de configuration locaux
+.env
+.env.local
+config.ini
+
+# Fichiers de résultats et métriques
+results/
+outputs/
+metrics/
+*.csv
+*.json
+
+# Fichiers de sauvegarde
+*.bak
+*.backup 
