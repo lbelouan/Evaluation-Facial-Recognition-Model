@@ -4,7 +4,6 @@ Ce projet permet d'évaluer et de comparer différents modèles de reconnaissanc
 
 ## Table des Matières
 
-- [Description du Projet](#description-du-projet)
 - [Structure du Projet](#structure-du-projet)
 - [Installation](#installation)
 - [Utilisation](#utilisation)
@@ -13,9 +12,6 @@ Ce projet permet d'évaluer et de comparer différents modèles de reconnaissanc
 - [Optimisation](#optimisation)
 - [Troubleshooting](#troubleshooting)
 
-## Description du Projet
-
-Ce projet vise à évaluer les performances de différents modèles de reconnaissance faciale en utilisant le dataset LFW. Il permet de comparer plusieurs modèles de deep learning, calculer des métriques de performance standardisées, mesurer les temps de traitement et organiser automatiquement les données d'entraînement et de test.
 
 ## Structure du Projet
 
