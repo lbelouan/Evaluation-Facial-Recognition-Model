@@ -255,14 +255,6 @@ sudo apt-get install libopenblas-dev liblapack-dev
 - Les modèles sont téléchargés automatiquement lors de leur première utilisation
 - Les résultats peuvent varier selon la qualité des images et les conditions d'éclairage
 
-## Contribution
-
-Pour contribuer au projet :
-1. Fork le repository
-2. Créer une branche pour votre fonctionnalité
-3. Ajouter des tests si nécessaire
-4. Soumettre une pull request
-
 ## Licence
 
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails. 
